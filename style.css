@@ -1,0 +1,28 @@
+.caixa {
+    font-family: Arial, Helvetica, sans-serif;
+    background: pink;
+    color:blue;
+    padding: 8px;
+    margin: 2px;
+    border:3px solid red;
+
+}
+
+body{
+    color:rgb(25, 180, 61);
+    border:5px solid palevioletred;
+}
+
+.primeiradiv{
+    background-color: chartreuse;
+    padding: 8px;
+    margin: 2px;
+    border:3px solid black;
+}
+
+#ultima-caixa {
+    background-color: cornflowerblue;
+    padding: 8px;
+    margin: 2px;
+    border:3px solid blue;
+}
